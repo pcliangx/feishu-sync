@@ -1,0 +1,10 @@
+{
+  "name": "feishu-sync",
+  "description": "Sync Markdown files to Feishu documents with Mermaid diagram rendering",
+  "entry": "dist/index.js",
+  "env": [
+    "FEISHU_APP_ID",
+    "FEISHU_APP_SECRET",
+    "FEISHU_FOLDER_TOKEN"
+  ]
+}
